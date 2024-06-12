@@ -1,0 +1,10 @@
+2024/04/03-17:16:12.802 4234 Reusing MANIFEST E:\Project_Python\craw_shopee\Profile\Default\Local Storage\leveldb/MANIFEST-000001
+2024/04/03-17:16:12.804 4234 Recovering log #3
+2024/04/03-17:16:12.804 4234 Level-0 table #3: started
+2024/04/03-17:16:12.847 4234 Level-0 table #3: 224001 bytes OK
+2024/04/03-17:16:12.847 4234 Recovering log #4
+2024/04/03-17:16:12.848 4234 Level-0 table #4: started
+2024/04/03-17:16:12.885 4234 Level-0 table #4: 436010 bytes OK
+2024/04/03-17:16:12.982 4234 Delete type=0 #3
+2024/04/03-17:16:12.983 4234 Delete type=0 #4
+2024/04/03-17:16:12.983 4234 Delete type=2 #5
